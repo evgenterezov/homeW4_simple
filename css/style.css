@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color:#a52a2a;
+    color: white;
+}
+div {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
+[id=libero] {
+    color:#0000ff
+}
+ul {
+    display: inline-block;
+}
+.cars {
+    text-align: center;
+    border: dashed;
+}
+footer {
+    text-align: center;
+    background-color:black;
+    color: white;
+    font-size: 25px;
+}
